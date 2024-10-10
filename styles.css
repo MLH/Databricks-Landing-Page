@@ -357,10 +357,33 @@ section {
 
 }
 
+@media only screen and (max-width: 900px) {
+
+    .hero-graphic {
+        right: 140px;
+        height: 300px;
+        min-height: 300px;
+    }
+
+    .header-square {
+        height: 250px;
+        width: 250px;
+        right: 195px;
+    }
+
+    .how-it-works {
+        max-width: 600px;
+    }
+}
+
 @media only screen and (max-width: 800px) {
 
     .hero-graphic,
     .header-square {
         display: none;
+    }
+
+    .requirements-ul li {
+        font-size: 9px;
     }
 }
