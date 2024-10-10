@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Slabo+27px&display=swap');
 
 :root {
-    --main-blue: #2a236e;
-    --shadow-blue: #1b135d;
+    --main-blue: #b32334;
+    --shadow-blue: #d86262;
     --main-gray: #2a2934;
-    --main-dark: #0E0B33;
+    --main-dark: #660303;
     --main-white: #fceded;
-    --secondary-blue: #1b8bbb;
+    --secondary-blue: #000000;
     --highlight-yellow: #FEE169;
     --shadow-yellow: #f3cd37;
 }
